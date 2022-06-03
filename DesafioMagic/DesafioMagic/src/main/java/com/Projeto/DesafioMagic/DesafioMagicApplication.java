@@ -10,6 +10,6 @@ public class DesafioMagicApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DesafioMagicApplication.class, args);
+	
 	}
-
 }

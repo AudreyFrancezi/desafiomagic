@@ -40,4 +40,6 @@ public class CartasREST {
     public void deletar(@RequestBody Cartas cartas){
         rCartas.delete(cartas);
     }
+
 }
+
